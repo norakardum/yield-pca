@@ -1,0 +1,7 @@
+quandl 
+pandas
+matplotlib
+numpy
+changefinder
+matplotlib
+sklearn
